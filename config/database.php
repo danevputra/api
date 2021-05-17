@@ -5,7 +5,7 @@ class DatabaseService{
     private $db_host = "localhost";
     private $db_name = "api";
     private $db_user = "root";
-    private $db_password = "";
+    private $db_password = "Dan020402!@#";
     private $connection;
 
     public function getConnection(){
